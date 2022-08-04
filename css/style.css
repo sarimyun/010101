@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+<*기본 구조-머리,내용,말단*>
+#wrap {}
+#header_layout {}
+#contents_layout {}
+#footer_layout {}
